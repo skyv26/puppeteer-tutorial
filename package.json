@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/skyv26/puppeteer-tutorial/issues"
   },
-  "homepage": "https://github.com/skyv26/puppeteer-tutorial#readme"
+  "homepage": "https://github.com/skyv26/puppeteer-tutorial#readme",
+  "devDependencies": {
+    "puppeteer": "^16.2.0"
+  }
 }
